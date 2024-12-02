@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="46.664" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Fitpeo Revenue Page Validation" name="Adjust the slider value" time="45.916">
+<system-out><![CDATA[
+Given From the homepage, navigate to the Revenue Calculator Page............passed
+When Scroll down the page until the revenue calculator slider is visible....passed
+And Adjust the slider to set its value and bottom text field value should be updated.passed
+And select the checkboxes for CPT-99091, CPT-99453, CPT-99454, and CPT-99474.passed
+And Take the screenshot.....................................................passed
+Then Validate value  enter in textbox.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
